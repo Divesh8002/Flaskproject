@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/CodingBlackHole",
+    "prod_uri":"mysql://root:@localhost/CodingBlackHole",
+    "fb_url": "https://facebook.com",
+    "tweet_url": "https://twitter.com",
+    "git_url": "https://github.com",
+    "blog_name": "CodingBlackHole",
+    "tag_line": "A Blog liked by Programmers",
+    "gmail_user":"yourusername",
+    "gmail_passd":"yourpassword",
+    "about_text":"Hi My Name is Divesh I had Created Simple Blog Website.",
+    "no_of_post": 5,
+    "login_image":"adminlogin.png",
+    "admin_user": "harry",
+    "admin_passwd":"password",
+    "upload_location":"//home//divesh//PycharmProjects//FlaskTut1//static"
+  }
+
+
+
+}
